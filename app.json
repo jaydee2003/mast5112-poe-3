@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Greenleaf Menu Manager",
+    "slug": "greenleaf-menu-manager",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F8F1"
+    },
+    "android": {
+      "package": "com.greenleaf.menumanager"
+    }
+  }
+}
